@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:0,TRT1 HD
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:0,TRT AVAZ HD
+https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,STAR TV HD
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:0,SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:0,Kanal D
+http://195.142.1.211:4002/udp/224.2.2.9:10001
+#EXTINF:0,TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:0,KANAL 7 FHD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:0,TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:0,TRT ÇOÇUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-id="HalkTV.tr",Halk TV (720p)
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
