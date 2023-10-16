@@ -1,3 +1,79 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="News",A Haber
 https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+#EXTINF:-1,TRT1 HD
+https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT 2
+https://trt2.blutv.com/blutv_trt2/live.m3u8
+#EXTINF:-1,TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,STAR TV HD
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1,SHOW TV
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1,Kanal D
+http://195.142.1.211:4002/udp/224.2.2.9:10001
+#EXTINF:-1,TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1,KANAL 7 FHD
+https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
+#EXTINF:-1,Halk TV
+https://halktv.blutv.com/blutv_halktv_live/live.m3u8
+#EXTINF:-1,Ulusal Kanal
+https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
+#EXTINF:-1,Tele1
+https://ythlsgo.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
+#EXTINF:-1,Sözcü
+https://ythlsgo.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+#EXTINF:-1,AkitTV.tr
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1,SPORTS TV HD
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1,A SPOR HD
+http://new.cache-stream.workers.dev/...W63Q/live.m3u8
+#EXTINF:-1,beIN SPORTS HABER
+http://new.cache-stream.workers.dev/...c7aw/live.m3u8
+#EXTINF:-1,TV8.5
+https://bit.ly/TV8_5_SUPERSATFORUM?/playlist1080p.m3u8
+#EXTINF:-1,TRT SPOR HD
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT BELGESEL
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,360 TV
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,TGRT Belgesel
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1,TRT ÇOÇUK
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1,TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,CNN Türk
+https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
+#EXTINF:-1,HaberTürk
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+#EXTINF:-1,Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1,A Haber
+https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1,24TV
+https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
+#EXTINF:-1,DHA
+https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
+#EXTINF:-1,TGRT Haber
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
+#EXTINF:-1,Medya Haber
+https://ythlsgo.onrender.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
+#EXTINF:-1,Cine5
+https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+#EXTINF:-1,Mavi Karadeniz
+https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
+#EXTINF:-1,Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1,Cay TV
+http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
+#EXTINF:-1,Çiftçi TV
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
+#EXTINF:-1,Agro TV
+https://yayin30.haber100.com/live/agrotv/playlist.m3u8
