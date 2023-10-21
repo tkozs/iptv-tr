@@ -10,3 +10,6 @@ https://iptv-org.github.io/iptv/countries/ch.m3u
 https://iptv-org.github.io/iptv/countries/at.m3u
 
 https://iptv-org.github.io/iptv/countries/uk.m3u
+
+# Sport
+https://iptv-org.github.io/iptv/categories/sports.m3u
