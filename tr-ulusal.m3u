@@ -1,77 +1,238 @@
 #EXTM3U
-#EXTINF:-1,TRT1 HD
-https://tv-trt1-dai.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT 2
-https://trt2.blutv.com/blutv_trt2/live.m3u8
-#EXTINF:-1,TRT TURK HD
-https://tv-trtturk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,STAR TV HD
-https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:-1,SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1,Kanal D
-http://195.142.1.211:4002/udp/224.2.2.9:10001
-#EXTINF:-1,TV8 HD
-https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1,KANAL 7 FHD
-https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
-#EXTINF:-1,Halk TV
-https://halktv.blutv.com/blutv_halktv_live/live.m3u8
-#EXTINF:-1,Ulusal Kanal
-https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
-#EXTINF:-1,Tele1
-https://ythlsgo.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
-#EXTINF:-1,Sözcü
-https://ythlsgo.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
-#EXTINF:-1,AkitTV.tr
-https://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1,SPORTS TV HD
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1,A SPOR HD
-http://new.cache-stream.workers.dev/...W63Q/live.m3u8
-#EXTINF:-1,beIN SPORTS HABER
-http://new.cache-stream.workers.dev/...c7aw/live.m3u8
-#EXTINF:-1,TV8.5
-https://bit.ly/TV8_5_SUPERSATFORUM?/playlist1080p.m3u8
-#EXTINF:-1,TRT SPOR HD
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1,TGRT Belgesel
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
-#EXTINF:-1,TRT ÇOÇUK
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1,TRT Haber
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,CNN Türk
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1,HaberTürk
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1,Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1,A Haber
-https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
-#EXTINF:-1,NTV
-https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:-1,24TV
-https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
-#EXTINF:-1,DHA
-https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1,TGRT Haber
-https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
-#EXTINF:-1,Medya Haber
-https://ythlsgo.onrender.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
-#EXTINF:-1,Cine5
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
-#EXTINF:-1,Mavi Karadeniz
-https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
-#EXTINF:-1,Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1,Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1,Çiftçi TV
-https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/playlist.m3u8
-#EXTINF:-1,Agro TV
-https://yayin30.haber100.com/live/agrotv/playlist.m3u8
+#EXTINF:-1,beIN Sports 1
+http://89.105.216.22:8080/live/bebosn/bebosn/33.ts
+#EXTINF:-1,beIN Sports 1
+http://89.105.216.22:8080/live/bebosn/bebosn/34.ts
+#EXTINF:-1,BEIN Sports 1
+http://89.105.216.22:8080/live/bebosn/bebosn/43.ts
+#EXTINF:-1,beIN Sports 1
+http://89.105.216.22:8080/live/bebosn/bebosn/38.ts
+#EXTINF:-1,beIN Sports 2
+http://89.105.216.22:8080/live/bebosn/bebosn/9.ts
+#EXTINF:-1,beIN Sports 2
+http://89.105.216.22:8080/live/bebosn/bebosn/35.ts
+#EXTINF:-1,BEIN SPORTS 2
+http://89.105.216.22:8080/live/bebosn/bebosn/41.ts
+#EXTINF:-1,Bein Sport 2
+http://89.105.216.22:8080/live/bebosn/bebosn/42.ts
+#EXTINF:-1,beIN Sports 2
+http://89.105.216.22:8080/live/bebosn/bebosn/36.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://89.105.216.22:8080/live/bebosn/bebosn/10.ts
+#EXTINF:-1,beIN Sports 3
+http://89.105.216.22:8080/live/bebosn/bebosn/11.ts
+#EXTINF:-1,beIN Sports 3
+http://89.105.216.22:8080/live/bebosn/bebosn/37.ts
+#EXTINF:-1,BEIN SPORTS 3
+http://89.105.216.22:8080/live/bebosn/bebosn/39.ts
+#EXTINF:-1,Bein Sport 3
+http://89.105.216.22:8080/live/bebosn/bebosn/40.ts
+#EXTINF:-1,beIN Sports 4
+http://89.105.216.22:8080/live/bebosn/bebosn/7.ts
+#EXTINF:-1,BEIN SPORTS 4
+http://89.105.216.22:8080/live/bebosn/bebosn/8.ts
+#EXTINF:-1,Bein Sport 4
+http://89.105.216.22:8080/live/bebosn/bebosn/45.ts
+#EXTINF:-1,beIN Sports 5
+http://89.105.216.22:8080/live/bebosn/bebosn/20.ts
+#EXTINF:-1,Bein Sport 5
+http://89.105.216.22:8080/live/bebosn/bebosn/46.ts
+#EXTINF:-1,beIN Sports 5
+http://89.105.216.22:8080/live/bebosn/bebosn/14.ts
+#EXTINF:-1,Bein Sport 6
+http://89.105.216.22:8080/live/bebosn/bebosn/44.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://89.105.216.22:8080/live/bebosn/bebosn/12.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://89.105.216.22:8080/live/bebosn/bebosn/13.ts
+#EXTINF:-1,beIN Sports 7
+http://89.105.216.22:8080/live/bebosn/bebosn/18.ts
+#EXTINF:-1,BEIN SPORTS 7
+http://89.105.216.22:8080/live/bebosn/bebosn/19.ts
+#EXTINF:-1,Bein Sport 7
+http://89.105.216.22:8080/live/bebosn/bebosn/47.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://89.105.216.22:8080/live/bebosn/bebosn/15.ts
+#EXTINF:-1,beIN Sports 8
+http://89.105.216.22:8080/live/bebosn/bebosn/16.ts
+#EXTINF:-1,BEIN SPORTS 8
+http://89.105.216.22:8080/live/bebosn/bebosn/17.ts
+#EXTINF:-1,Bein Sport 8
+http://89.105.216.22:8080/live/bebosn/bebosn/48.ts
+#EXTINF:-1,beIN SPORTS XTRA 1
+http://89.105.216.22:8080/live/bebosn/bebosn/21.ts
+#EXTINF:-1,beIN SPORTS XTRA 2
+http://89.105.216.22:8080/live/bebosn/bebosn/22.ts
+#EXTINF:-1,BEIN Sports 01 EN
+http://89.105.216.22:8080/live/bebosn/bebosn/23.ts
+#EXTINF:-1,beIN Sports 3 EN
+http://89.105.216.22:8080/live/bebosn/bebosn/25.ts
+#EXTINF:-1,beIN Sports 1 FR
+http://89.105.216.22:8080/live/bebosn/bebosn/26.ts
+#EXTINF:-1,beIN Sports 2 FR
+http://89.105.216.22:8080/live/bebosn/bebosn/27.ts
+#EXTINF:-1,BEIN PORTS 03 FR
+http://89.105.216.22:8080/live/bebosn/bebosn/28.ts
+#EXTINF:-1,beIN Sports Global
+http://89.105.216.22:8080/live/bebosn/bebosn/29.ts
+#EXTINF:-1,BEIN Sports 1 afc
+http://89.105.216.22:8080/live/bebosn/bebosn/24.ts
+#EXTINF:-1,BEIN SPORTS XTRA 1 FHD
+http://89.105.216.22:8080/live/bebosn/bebosn/30.ts
+#EXTINF:-1,BEIN SPORTS XTRA 2 FHD
+http://89.105.216.22:8080/live/bebosn/bebosn/31.ts
+
+#EXTINF:-1,BEIN SPORT NEWS
+http://89.105.216.22:8080/live/bebosn/bebosn/32.ts
+#EXTINF:-1,BEIN SPORT NBA
+http://89.105.216.22:8080/live/bebosn/bebosn/49.ts
+#EXTINF:-1,Bein Sport Xtra 1 SD
+http://89.105.216.22:8080/live/bebosn/bebosn/50.ts
+#EXTINF:-1,Bein Sport Xtra 2 SD
+http://89.105.216.22:8080/live/bebosn/bebosn/51.ts
+#EXTINF:-1,SSC1-4k
+http://89.105.216.22:8080/live/bebosn/bebosn/52.ts
+#EXTINF:-1,SSC1-HD
+http://89.105.216.22:8080/live/bebosn/bebosn/53.ts
+#EXTINF:-1,SSC2-HD
+http://89.105.216.22:8080/live/bebosn/bebosn/54.ts
+#EXTINF:-1,SSC3-HD
+http://89.105.216.22:8080/live/bebosn/bebosn/55.ts
+#EXTINF:-1,SSC4-HD
+http://89.105.216.22:8080/live/bebosn/bebosn/56.ts
+#EXTINF:-1,SSC5-HD
+http://89.105.216.22:8080/live/bebosn/bebosn/57.ts
+#EXTINF:-1,SSC EXTRA 1-HD
+http://89.105.216.22:8080/live/bebosn/bebosn/58.ts
+#EXTINF:-1,SSC EXTRA 2-HD
+http://89.105.216.22:8080/live/bebosn/bebosn/59.ts
+#EXTINF:-1,AD Sports PREMIEUM 1 SERIE A
+http://89.105.216.22:8080/live/bebosn/bebosn/60.ts
+#EXTINF:-1,AD Sports PREMIEUM 2 SERIE A
+http://89.105.216.22:8080/live/bebosn/bebosn/61.ts
+#EXTINF:-1,StarzPlay SPORT 1
+http://89.105.216.22:8080/live/bebosn/bebosn/62.ts
+#EXTINF:-1,StarzPlay SPORT 2
+http://89.105.216.22:8080/live/bebosn/bebosn/63.ts
+#EXTINF:-1,StarzPlay SPORT 3
+http://89.105.216.22:8080/live/bebosn/bebosn/64.ts
+#EXTINF:-1,AD SPORT ASIA 1
+http://89.105.216.22:8080/live/bebosn/bebosn/70.ts
+#EXTINF:-1,AD SPORT ASIA 2
+http://89.105.216.22:8080/live/bebosn/bebosn/71.ts
+#EXTINF:-1,SP : AD SPORT 1
+http://89.105.216.22:8080/live/bebosn/bebosn/74.ts
+#EXTINF:-1,SP : AD SPORT 1 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/75.ts
+#EXTINF:-1,SP : AD SPORT 2
+http://89.105.216.22:8080/live/bebosn/bebosn/76.ts
+#EXTINF:-1,SP : AD SPORT 2 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/77.ts
+#EXTINF:-1,SP : AD SPORT 3
+http://89.105.216.22:8080/live/bebosn/bebosn/78.ts
+#EXTINF:-1,SP : AD SPORT 3 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/79.ts
+#EXTINF:-1,SP : AD SPORT 4
+http://89.105.216.22:8080/live/bebosn/bebosn/80.ts
+#EXTINF:-1,SP : AD SPORT 4 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/81.ts
+#EXTINF:-1,SP : KSA SPORT 1
+http://89.105.216.22:8080/live/bebosn/bebosn/82.ts
+#EXTINF:-1,SP : SAUDIA SPORT 1 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/83.ts
+#EXTINF:-1,SP : KSA SPORT 2
+http://89.105.216.22:8080/live/bebosn/bebosn/84.ts
+#EXTINF:-1,SP : SAUDIA SPORT 2 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/85.ts
+#EXTINF:-1,SP : KSA SPORT 3
+http://89.105.216.22:8080/live/bebosn/bebosn/86.ts
+#EXTINF:-1,SP : SAUDIA SPORT 3 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/87.ts
+#EXTINF:-1,SP : KSA SPORT 4
+http://89.105.216.22:8080/live/bebosn/bebosn/88.ts
+#EXTINF:-1,SP : SAUDIA SPORT 4 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/89.ts
+#EXTINF:-1,SP : KSA.SUADI 24 SPORT
+http://89.105.216.22:8080/live/bebosn/bebosn/90.ts
+#EXTINF:-1,SP:  QA . AL KASS 1
+http://89.105.216.22:8080/live/bebosn/bebosn/91.ts
+#EXTINF:-1,SP: QA . AL KASS 1 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/92.ts
+#EXTINF:-1,SP: QA . AL KASS 2
+http://89.105.216.22:8080/live/bebosn/bebosn/93.ts
+#EXTINF:-1,SP: QA . AL KASS 2 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/94.ts
+#EXTINF:-1,SP: QA . AL KASS 3
+http://89.105.216.22:8080/live/bebosn/bebosn/95.ts
+#EXTINF:-1,SP: QA . AL KASS  3 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/96.ts
+#EXTINF:-1,SP: QA . AL KASS 4
+http://89.105.216.22:8080/live/bebosn/bebosn/97.ts
+#EXTINF:-1,SP: QA . AL KASS 4 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/98.ts
+#EXTINF:-1,SP: QA . AL KASS 5
+http://89.105.216.22:8080/live/bebosn/bebosn/99.ts
+#EXTINF:-1,SP: QA . AL KASS 5 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/100.ts
+#EXTINF:-1,SP : ON TIME SPORT 1
+http://89.105.216.22:8080/live/bebosn/bebosn/101.ts
+#EXTINF:-1,SP : ON TIME SPORT 1 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/102.ts
+#EXTINF:-1,SP : ON TIME SPORT 2
+http://89.105.216.22:8080/live/bebosn/bebosn/103.ts
+#EXTINF:-1,SP : ON TIME SPORT 2 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/104.ts
+#EXTINF:-1,ONTIMESPORTS 3 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/105.ts
+#EXTINF:-1,ONTIMESPORTS 3
+http://89.105.216.22:8080/live/bebosn/bebosn/106.ts
+#EXTINF:-1,SP : ZAMALEK SPORT
+http://89.105.216.22:8080/live/bebosn/bebosn/107.ts
+#EXTINF:-1,SP : ZAMALEK SPORT HD
+http://89.105.216.22:8080/live/bebosn/bebosn/108.ts
+#EXTINF:-1,SP : ALAHLY
+http://89.105.216.22:8080/live/bebosn/bebosn/109.ts
+#EXTINF:-1,SP : ALAHLY HD
+http://89.105.216.22:8080/live/bebosn/bebosn/110.ts
+#EXTINF:-1,SP : NILE SPORT
+http://89.105.216.22:8080/live/bebosn/bebosn/111.ts
+#EXTINF:-1,SP : DUBAI SPORT 1
+http://89.105.216.22:8080/live/bebosn/bebosn/112.ts
+#EXTINF:-1,SP : DUBAI SPORT 1 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/113.ts
+#EXTINF:-1,SP : DUBAI SPORT 2
+http://89.105.216.22:8080/live/bebosn/bebosn/114.ts
+#EXTINF:-1,SP : DUBAI SPORT 2 HD
+http://89.105.216.22:8080/live/bebosn/bebosn/115.ts
+#EXTINF:-1,SP : JORDAN SPORT
+http://89.105.216.22:8080/live/bebosn/bebosn/120.ts
+#EXTINF:-1,SP : SHABAB IRAQIA SPORT
+http://89.105.216.22:8080/live/bebosn/bebosn/121.ts
+#EXTINF:-1,SP : SHABAB IRAQIA SPORT HD
+http://89.105.216.22:8080/live/bebosn/bebosn/122.ts
+#EXTINF:-1,SP : Al RABIAA SPORTS
+http://89.105.216.22:8080/live/bebosn/bebosn/123.ts
+#EXTINF:-1,SP : IRAQI  Al Rabiaa
+http://89.105.216.22:8080/live/bebosn/bebosn/124.ts
+#EXTINF:-1,SP : Alrabiaa Sport
+http://89.105.216.22:8080/live/bebosn/bebosn/125.ts
+#EXTINF:-1,SP : IRAQI SPORTS
+http://89.105.216.22:8080/live/bebosn/bebosn/126.ts
+#EXTINF:-1,SP : IRAQIA SPORT HD
+http://89.105.216.22:8080/live/bebosn/bebosn/127.ts
+#EXTINF:-1,SP : SHARJAH SPORT
+http://89.105.216.22:8080/live/bebosn/bebosn/128.ts
+#EXTINF:-1,SP : BAHRIAN SPORT 1
+http://89.105.216.22:8080/live/bebosn/bebosn/129.ts
+#EXTINF:-1,SP : BAHRIAN SPORT 2
+http://89.105.216.22:8080/live/bebosn/bebosn/130.ts
+#EXTINF:-1,KTV SPORT PLUS
+http://89.105.216.22:8080/live/bebosn/bebosn/131.ts
+#EXTINF:-1,SP : KWT SPORTS
+http://89.105.216.22:8080/live/bebosn/bebosn/132.ts
+#EXTINF:-1,SP : Libya Sport Channel
+http://89.105.216.22:8080/live/bebosn/bebosn/133.ts
+#EXTINF:-1,SP : Libya Sport 2
+http://89.105.216.22:8080/live/bebosn/bebosn/134.ts
+#EXTINF:-1,SP : OMAN SPORT
+http://89.105.216.22:8080/live/bebosn/bebosn/135.ts
