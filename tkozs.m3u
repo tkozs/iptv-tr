@@ -81,3 +81,6 @@ https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Ulusal",Fox
 https://foxtv.blutv.com/blutv_foxtv_live/live.m3u8
+
+#EXTINF:-1 tvg-id="Sports" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Sports",Sports
+https://iptv-org.github.io/iptv/categories/sports.m3u
