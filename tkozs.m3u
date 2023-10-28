@@ -22,7 +22,7 @@ https://stream.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 #EXTINF:-1 tvg-id="Tele1.tr" tvg-logo="https://i.imgur.com/joaI9wV.png" group-title="Ulusal",Tele1
 https://ythlsgo.onrender.com/channel/UCoHnRpOS5rL62jTmSDO5Npw.m3u8
 #EXTINF:-1,Sözcü
-https://ythlsgo.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
+http://szctvdvr.blutv.com/blutv_szctv_dvr/live.m3u8
 #EXTINF:-1 tvg-id="AkitTV.tr" tvg-logo="https://i.imgur.com/oGto929.png" group-title="Ulusal",Akit TV
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="Sports",Sports TV
