@@ -10,7 +10,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-id="ShowTV.tr" tvg-logo="https://i.imgur.com/1l7SCCu.png" group-title="Ulusal",Show TV
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="KanalD.tr" tvg-logo="https://i.imgur.com/9o1atM6.png" group-title="Ulusal",Kanal D
-http://195.142.1.211:4002/udp/224.2.2.9:10001
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.tr" tvg-logo="https://i.imgur.com/DKNwiDm.png" group-title="Ulusal",TV 8
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
 #EXTINF:-1 tvg-id="Kanal7.tr" tvg-logo="https://i.imgur.com/pxpLpnH.png" group-title="Ulusal",Kanal 7
