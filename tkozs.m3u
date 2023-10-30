@@ -59,7 +59,7 @@ https://dogus-live.daioncdn.net/ntv/ntv.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24_720p.m3u8
 #EXTINF:-1 tvg-id="DHA.tr" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News",DHA
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://i.imgur.com/PrxwKDw.png" group-title="News",TGRT Haber
+#EXTINF:-1 tvg-id="TGRTHaber.tr" tvg-logo="https://de.m.wikipedia.org/wiki/TGRT_Haber#/media/Datei%3ATGRT_Haber_logosu.png" group-title="News",TGRT Haber
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MedyaHaber.tr" tvg-logo="https://i.imgur.com/l1E2Pha.png" group-title="News",Medya Haber
 https://ythlsgo.onrender.com/channel/UC_KlNwS1QQ9QMPRg9dGNHNw.m3u8
