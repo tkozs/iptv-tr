@@ -47,7 +47,7 @@ https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/CNN_T%C3%BCrk_logo.svg/512px-CNN_T%C3%BCrk_logo.svg.png" group-title="News",CNN Türk
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="TurkHaber.tr" tvg-logo="https://i.imgur.com/k7qxZSp.png" group-title="News",Haber Türk
+#EXTINF:-1 tvg-id="TurkHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habertürk_logo.svg/2560px-Habertürk_logo.svg.png" group-title="News",Haber Türk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 #EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="News",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
@@ -81,5 +81,5 @@ https://mn-nl.mncdn.com/blutv_ulketv2/live.m3u8
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="FoxTurkey.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Ulusal",Fox
 http://bit.ly/3V3n94e?/chunklist.m3u8
-#EXTINF:-1 tvg-id="superturk.com.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Süpertürk",UPERTURK TV HD
+#EXTINF:-1 tvg-id="superturk.com.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Süpertürk",SUPERTURK TV HD
 http://bit.ly/SUPERTURK_TVHD_bysimba?/index.m3u8
