@@ -49,7 +49,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="TurkHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Habertürk_logo.svg/2560px-Habertürk_logo.svg.png" group-title="News",Haber Türk
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://i.imgur.com/fu6XeGS.png" group-title="News",Haber Global
+#EXTINF:-1 tvg-id="HaberGlobal.tr" tvg-logo="https://4.bp.blogspot.com/-vv_S1u1QnJs/W6icLJJR2II/AAAAAAAANd0/fyqa5bDmHsgBAoY_-_Bl7g_Dnjn6wGD2ACLcBGAs/s1600/IMG_20180924_111115.jpg" group-title="News",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="AHaber.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="News",A Haber
 https://ythlsgo.onrender.com/channel/UCKQhfw-lzz0uKnE1fY1PsAA.m3u8
