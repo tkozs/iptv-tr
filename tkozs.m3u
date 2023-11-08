@@ -83,3 +83,11 @@ https://tv-trtspor2.medya.trt.com.tr/master.m3u8
 http://bit.ly/3V3n94e?/chunklist.m3u8
 #EXTINF:-1 tvg-id="superturk.com.tr" tvg-logo="https://i.imgur.com/homSiDa.png" group-title="Süpertürk",SUPERTURK TV HD
 http://bit.ly/SUPERTURK_TVHD_bysimba?/index.m3u8
+#EXTINF:-1,BeIN_Sport_05_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49383
+#EXTINF:-1,BeIN_Sport_05_Hevc50
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/49605
+#EXTINF:-1,BeIN_Sport_03_SD
+http://server.sibfungold.info:8080/abdulwahab1989/jz8VSabdulwahab1989kWiUS/3246
+#EXTINF:-1,Bein Sport 5 VIP
+http://173.212.193.243:8080/mo3ad4M2/mo3ad4M2/890
