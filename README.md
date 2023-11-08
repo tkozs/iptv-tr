@@ -15,4 +15,5 @@ https://iptv-org.github.io/iptv/countries/uk.m3u
 https://iptv-org.github.io/iptv/categories/sports.m3u
 
 # Bein Sports
-https://raw.githubusercontent.com/tkozs/iptv-tr/main/tr-ulusal.m3u
+https://raw.githubusercontent.com/tkozs/ipetv-tr/main/tr-ulusal.m3u
+https://raw.githubusercontent.com/tkozs/ipetv-tr/main/Other.m3u
